@@ -2,11 +2,11 @@ import Config
 
 # Configure your database
 config :demo, Demo.Repo,
-  username: "aquental",
-  password: "BancoAWS0",
-  hostname: "dbaq.cl7xea4lvwvq.us-east-1.rds.amazonaws.com",
-  database: "dbaq",
-  port: 5432,
+  username: "---",
+  password: "---",
+  hostname: "---",
+  database: "---",
+  port: 0,
   stacktrace: true,
   show_sensitive_data_on_connection_error: true,
   pool_size: 10
